@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hekwas i'm starting to learn code at a young age.
+- 👋 Hi, I’m @hekwas scripter, ui dev , lua ,engineering
 - 👀 I’m interested in c++ and python app developing.
-- 🌱 I’m currently learning c++ and python.
+- 🌱 I’m currently learning c++ and python ,lua.
 
 - 📫 How to reach me: hekwas.lol@gmail.com
 
